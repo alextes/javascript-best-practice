@@ -4,5 +4,5 @@ Repository for common JavaScript related questions with helpful answers. Use the
 
 ## Questions
 
-* [Should you add a dependency or write the code yourself?](https://github.com/AlexTes/javascript-best-practice/issues/1)
+* [Can you require relative to the project root to shorten the path?](https://github.com/AlexTes/javascript-best-practice/issues/1)
 * [Should you add a dependency or write the code yourself?](https://github.com/AlexTes/javascript-best-practice/issues/2)
